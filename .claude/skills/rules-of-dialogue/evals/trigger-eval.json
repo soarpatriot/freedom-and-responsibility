@@ -1,0 +1,22 @@
+[
+  {"query": "we had our sprint retro yesterday and it got kind of heated, i took notes — can you read through and tell me where it went off the rails and whether i was being fair?", "should_trigger": true},
+  {"query": "i'm about to hit send on this slack reply to my manager who shot down my proposal. can you check my tone before i send it? 'honestly nobody on this team actually reads the design docs so what's the point'", "should_trigger": true},
+  {"query": "my partner and i keep having the same fight about chores and it always spirals. here's roughly how last night went... is there a healthier way i could've said my side?", "should_trigger": true},
+  {"query": "we're mid-negotiation with a vendor over the renewal price. they said we 'agreed to 40k last call' but i don't remember that. help me respond without blowing up the deal", "should_trigger": true},
+  {"query": "referee this argument between me and my cofounder about whether to rewrite the backend. paste below. who's actually making the better case and who's just scoring points?", "should_trigger": true},
+  {"query": "during the demo Q&A one of the stakeholders kept interrupting and saying 'everyone knows this approach doesn't scale'. was that a fair criticism or just hand-waving?", "should_trigger": true},
+  {"query": "read this brainstorm transcript — i feel like one person dominated the whole thing and shut everyone else down. flag the moments", "should_trigger": true},
+  {"query": "my teammate said my PR comment was a personal attack but i think i was just being direct about the code. here's what i wrote, am i in the wrong?", "should_trigger": true},
+  {"query": "help me stay honest in this debate thread with my brother about the election — i keep wanting to win instead of actually figuring out what's true", "should_trigger": true},
+  {"query": "here's the one-on-one i had with a report who's underperforming. did i actually listen to them or did i just talk at them the whole time?", "should_trigger": true},
+  {"query": "transcribe this voice memo of our team standup into clean meeting notes with action items", "should_trigger": false},
+  {"query": "write me a strongly-worded complaint email to my landlord about the broken heating, make it firm and persuasive", "should_trigger": false},
+  {"query": "i'm prepping for a debate competition next week, give me rhetorical techniques to dismantle my opponent's arguments and win the round", "should_trigger": false},
+  {"query": "translate this chinese meeting transcript into english", "should_trigger": false},
+  {"query": "summarize the key decisions from this 2-hour recorded planning call, i don't need analysis just the TLDR", "should_trigger": false},
+  {"query": "draft a negotiation strategy to get the vendor down to 30k — what leverage points should i push on?", "should_trigger": false},
+  {"query": "my code review tool keeps flagging style violations, how do i configure the linter rules to stop that", "should_trigger": false},
+  {"query": "give me 5 icebreaker questions for a team retro so people actually open up", "should_trigger": false},
+  {"query": "fact-check this claim: 'sharding by tenant doesn't work past 10k tenants' — is that technically true?", "should_trigger": false},
+  {"query": "write a script for a two-character dialogue in my short film where the siblings argue about their inheritance", "should_trigger": false}
+]
