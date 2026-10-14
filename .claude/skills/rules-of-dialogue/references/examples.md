@@ -116,6 +116,94 @@ framing; drop the "insulting" opener.
 
 ---
 
+## Example 4 — Self-check before sending, with OFNR rewrite (daily life)
+
+Shows the construction recipe (Observation → Feeling → Need → Request) turning a
+blaming draft into an honest one, step by step.
+
+**Input:**
+
+> Draft I'm about to send my teammate: "You make me feel like an idiot every
+> time you rewrite my code without telling me. You're so controlling."
+
+**Output:**
+
+```
+❌ Rule 2 — No personal attacks
+   "You're so controlling."  (draft)
+   Why: Labels the person's character instead of naming the action and its effect.
+
+❌ Rule 1 — Seek truth, not victory
+   "You make me feel like an idiot"  (draft)
+   Why: Hands the feeling to them as blame ("you make me") instead of owning it,
+   which invites a fight rather than a change.
+```
+
+Building the Try: line with OFNR:
+
+- **Observation:** "the last two PRs, my code was rewritten before we talked" —
+  filmable, no verdict.
+- **Feeling:** not "like an idiot" (a thought about yourself) — the real feeling
+  is *discouraged* and *frustrated*.
+- **Need:** to be consulted; to feel my work is trusted.
+- **Request:** doable, positive, declinable.
+
+```
+Try: "On the last two PRs, my code got rewritten before we talked about it (observation).
+      I felt discouraged (feeling), because I want to be looped in on changes to my work
+      (need). Could we talk before reworking each other's PRs from now on? (request)"
+```
+
+**Summary:** The draft would have landed as an attack and provoked defensiveness.
+Same point, rebuilt through OFNR, it stays honest — it still says "this isn't
+working for me" — but gives the teammate something to say yes to.
+
+---
+
+## Example 5 — Referee a dispute: needs vs. strategies (negotiation)
+
+When refereeing, the job is to surface each side's *need* underneath the
+*strategy* they're fighting over — two strategies can clash while the needs
+behind them don't.
+
+**Input:**
+
+> **Farmer:** These workers just ignore the rules. I need them gone.
+> **Worker:** He's a racist. We need him to stop watching our every move.
+
+**Output:**
+
+```
+❌ Rule 2 — No personal attacks
+   "He's a racist." / "These workers just ignore the rules."  (both)
+   Why: Each side diagnoses the other's character instead of naming what happened.
+
+❌ Rule 4 — Base arguments on evidence
+   Both claims are verdicts with no specific incident attached.
+   Try (farmer): "Twice this week the safety checklist wasn't signed before the
+         shift started."
+   Try (worker): "You came to our station six times yesterday to check on us."
+```
+
+Refereeing move — separate need from strategy:
+
+- "I need them gone" is a *strategy*, not a need. The need underneath is likely
+  *reliability / safety*. Ask: "what would being gone give you that you're not
+  getting now?"
+- "Stop watching our every move" is a strategy too; the need is likely *trust /
+  dignity*. Ask: "what do you need to feel trusted on the job?"
+
+Once it's "I need the safety steps followed" vs. "I need to be trusted to do my
+job," the two needs aren't actually opposed — and a shared solution (a signed
+checklist the workers own themselves) can satisfy both.
+
+**Summary:** The fight was strategy-vs-strategy ("gone" vs. "stop watching"),
+which has no overlap. Moving each side to the need underneath — reliability and
+dignity — opens a solution neither opening position allowed. Note the goal is
+*both needs met*, not a compromise where each gives something up.
+
+---
+
 ## Calibration — what NOT to flag
 
 Firmness is not a violation. These are all *fine*:

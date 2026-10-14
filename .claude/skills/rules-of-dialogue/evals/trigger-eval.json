@@ -9,6 +9,8 @@
   {"query": "my teammate said my PR comment was a personal attack but i think i was just being direct about the code. here's what i wrote, am i in the wrong?", "should_trigger": true},
   {"query": "help me stay honest in this debate thread with my brother about the election — i keep wanting to win instead of actually figuring out what's true", "should_trigger": true},
   {"query": "here's the one-on-one i had with a report who's underperforming. did i actually listen to them or did i just talk at them the whole time?", "should_trigger": true},
+  {"query": "i wrote 'you make me feel like an idiot every time you rewrite my code, you're so controlling' — help me rephrase this so it makes the point without sounding like an attack", "should_trigger": true},
+  {"query": "this message to my coworker comes off as blaming and accusing. can you rewrite it so it still says i'm frustrated but invites a reply instead of starting a fight?", "should_trigger": true},
   {"query": "transcribe this voice memo of our team standup into clean meeting notes with action items", "should_trigger": false},
   {"query": "write me a strongly-worded complaint email to my landlord about the broken heating, make it firm and persuasive", "should_trigger": false},
   {"query": "i'm prepping for a debate competition next week, give me rhetorical techniques to dismantle my opponent's arguments and win the round", "should_trigger": false},
