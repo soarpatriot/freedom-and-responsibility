@@ -1,5 +1,6 @@
 ---
 name: rules-of-dialogue
+version: 1.0.0
 description: >-
   Judge the health and fairness of a real back-and-forth between people — a
   conversation, transcript, thread, chat log, meeting notes, retro, one-on-one,
